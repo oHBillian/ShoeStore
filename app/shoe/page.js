@@ -36,7 +36,7 @@ const Shoe = () => {
                 </div>
               ))
       ) : (
-      <div className="w-96 flex"> No item match &ldquo;{query}&ldquo;</div>
+      <div className="w-96 flex"> No item match &ldquo;{query}&ldquo; :(</div>
       )}
 
     </div>
